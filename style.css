@@ -19,15 +19,19 @@ h2 {
     padding: 10px 40px;
 }
 
-p {
+.class {
     text-align: center;
-    color: white;
+    color: aquamarine;
 }
 
-#link-button {
-    text-decoration: none;
+.link-button {
+    text-align: center;
+    color: beige;
     background-color: yellowgreen;
     font-size: medium;
-    color: beige;
-    padding: 50px 20px;
+    padding: 10px 40px;
+}
+
+P {
+    color: white;
 }
